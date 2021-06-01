@@ -1,2 +1,4 @@
 Testing the login functionality of GIT
 Changing the content by gitbash user
+Open login box & ENter credentials & hit enter
+Validated the changes in file from Bash
